@@ -1,0 +1,199 @@
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\is_takip_proje.exe.config
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\is_takip_proje.exe
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\is_takip_proje.pdb
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\DevExpress.Data.v21.1.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\DevExpress.Utils.v21.1.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\DevExpress.XtraBars.v21.1.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\DevExpress.Data.v21.1.xml
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\DevExpress.Utils.v21.1.xml
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\DevExpress.XtraBars.v21.1.xml
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\obj\Debug\is_takip_proje.csprojAssemblyReference.cache
+C:\Users\Bedirhan\source\repos\is_takip_proje\obj\Debug\is_takip_proje.Form1.resources
+C:\Users\Bedirhan\source\repos\is_takip_proje\obj\Debug\is_takip_proje.Properties.Resources.resources
+C:\Users\Bedirhan\source\repos\is_takip_proje\obj\Debug\is_takip_proje.csproj.GenerateResource.cache
+C:\Users\Bedirhan\source\repos\is_takip_proje\obj\Debug\is_takip_proje.exe.licenses
+C:\Users\Bedirhan\source\repos\is_takip_proje\obj\Debug\is_takip_proje.csproj.CoreCompileInputs.cache
+C:\Users\Bedirhan\source\repos\is_takip_proje\obj\Debug\is_takip_proje.csproj.CopyComplete
+C:\Users\Bedirhan\source\repos\is_takip_proje\obj\Debug\is_takip_proje.exe
+C:\Users\Bedirhan\source\repos\is_takip_proje\obj\Debug\is_takip_proje.pdb
+C:\Users\Bedirhan\source\repos\is_takip_proje\obj\Debug\is_takip_proje.Formlar.FrmDepartmanlar.resources
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\DevExpress.XtraGrid.v21.1.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\DevExpress.XtraLayout.v21.1.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\DevExpress.XtraPrinting.v21.1.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\DevExpress.RichEdit.v21.1.Core.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\DevExpress.XtraTreeList.v21.1.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\DevExpress.Office.v21.1.Core.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\DevExpress.XtraGrid.v21.1.xml
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\DevExpress.XtraLayout.v21.1.xml
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\DevExpress.XtraPrinting.v21.1.xml
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\DevExpress.RichEdit.v21.1.Core.xml
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\DevExpress.XtraTreeList.v21.1.xml
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\DevExpress.Office.v21.1.Core.xml
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\de\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\es\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\ja\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\ru\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\de\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\es\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\ja\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\ru\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\de\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\es\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\ja\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\ru\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\de\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\es\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\ja\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\ru\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\de\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\es\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\ja\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\ru\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\de\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\es\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\ja\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\ru\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\EntityFramework.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\EntityFramework.xml
+C:\Users\Bedirhan\source\repos\is_takip_proje\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bedirhan\source\repos\is_takip_proje\obj\Debug\is_takip_proje.Formlar.FrmPersoneller.resources
+C:\Users\Bedirhan\source\repos\is_takip_proje\obj\Debug\is_takip_proje.Formlar.FrmPersonelistatistik.resources
+C:\Users\Bedirhan\source\repos\is_takip_proje\obj\Debug\is_takip_proje.Formlar.FrmDepartmanistatistik.resources
+C:\Users\Bedirhan\source\repos\is_takip_proje\obj\Debug\is_takip_proje.Formlar.FrmFirmaistatistikleri.resources
+C:\Users\Bedirhan\source\repos\is_takip_proje\obj\Debug\is_takip_proje.Formlar.FrmGorevler.resources
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\is_takip_proje.exe.config
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\is_takip_proje.exe
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\is_takip_proje.pdb
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\EntityFramework.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\EntityFramework.SqlServer.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\DevExpress.RichEdit.v21.1.Core.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\DevExpress.XtraTreeList.v21.1.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\DevExpress.Office.v21.1.Core.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\DevExpress.Data.v21.1.xml
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\DevExpress.Utils.v21.1.xml
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\DevExpress.XtraBars.v21.1.xml
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\DevExpress.XtraGrid.v21.1.xml
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\DevExpress.XtraLayout.v21.1.xml
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\DevExpress.XtraPrinting.v21.1.xml
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\EntityFramework.xml
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\EntityFramework.SqlServer.xml
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\DevExpress.RichEdit.v21.1.Core.xml
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\DevExpress.XtraTreeList.v21.1.xml
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\DevExpress.Office.v21.1.Core.xml
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\de\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\es\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\ja\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\ru\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\de\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\es\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\ja\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\ru\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\de\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\es\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\ja\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\ru\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\de\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\es\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\ja\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\ru\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\de\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\es\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\ja\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\ru\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\de\DevExpress.Office.v21.1.Core.resources.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\es\DevExpress.Office.v21.1.Core.resources.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\ja\DevExpress.Office.v21.1.Core.resources.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\bin\Debug\ru\DevExpress.Office.v21.1.Core.resources.dll
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\obj\Debug\is_takip_proje.csproj.AssemblyReference.cache
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\obj\Debug\is_takip_proje.Form1.resources
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\obj\Debug\is_takip_proje.Formlar.FrmDepartmanistatistik.resources
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\obj\Debug\is_takip_proje.Formlar.FrmDepartmanlar.resources
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\obj\Debug\is_takip_proje.Formlar.FrmFirmaistatistikleri.resources
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\obj\Debug\is_takip_proje.Formlar.FrmGorevler.resources
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\obj\Debug\is_takip_proje.Formlar.FrmPersonelistatistik.resources
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\obj\Debug\is_takip_proje.Formlar.FrmPersoneller.resources
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\obj\Debug\is_takip_proje.Properties.Resources.resources
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\obj\Debug\is_takip_proje.csproj.GenerateResource.cache
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\obj\Debug\is_takip_proje.exe.licenses
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\obj\Debug\is_takip_proje.csproj.CoreCompileInputs.cache
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\obj\Debug\is_takip_proje.csproj.CopyComplete
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\obj\Debug\is_takip_proje.exe
+D:\Yeni klasör\bedirhan\Dersler\DERS\is_takip_proje\obj\Debug\is_takip_proje.pdb
